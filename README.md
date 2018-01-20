@@ -1,1 +1,2 @@
 # EuromilhoesPad
+Euromilhões NotePad
